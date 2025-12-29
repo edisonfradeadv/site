@@ -207,6 +207,14 @@ header .navbar {
 	position: fixed;
 	background-color: #fff!important;
 	box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
+	background-image: url(./ass);
+}
+.background-header .navbar-brand img {
+	content: url(../images/EDISON_FRADE_LOGO_P.png);
+}
+#logo {
+	width: 200px;
+	margin-top: -10px !important;
 }
 .background-header .navbar-brand h2 {
 	color: #121212!important;
@@ -1062,6 +1070,10 @@ footer .inner-content p a {
 	}
 	.navbar .navbar-brand {
 		width: auto;
+	}
+	#logo {
+		width: 200px;
+		margin-top: -25px !important;
 	}
 	.navbar:after {
 		display: none;
