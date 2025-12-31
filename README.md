@@ -41,7 +41,7 @@ Site estático para **Edison Frade**, advogado português-brasileiro especializa
 O site está totalmente em português (português europeu com referências ao português brasileiro).
 
 ## Autor
-Edison Frade - Advogado
+Edison Frade - Advocacia
 
 ## Ano
-2024
+2026
